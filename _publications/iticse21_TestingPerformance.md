@@ -6,7 +6,7 @@ date: 2021-6-26
 ---
 Recommended citation: 
 
-**Gina R. Bai**, Justin Smith, and Kathryn T. Stolee. 2021. How Students Unit Test: Perceptions, Practices, and Pitfalls. In <i>26th ACM Conference on Innova- tion and Technology in Computer Science Education V. 1 (ITiCSE 2021), June 26-July 1, 2021, Virtual Event, Germany</i>. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3430665.3456368
+**Gina R. Bai**, Justin Smith, and Kathryn T. Stolee. 2021. How Students Unit Test: Perceptions, Practices, and Pitfalls. In <i>26th ACM Conference on Innovation and Technology in Computer Science Education V. 1 (ITiCSE 2021), June 26-July 1, 2021, Virtual Event, Germany</i>. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3430665.3456368
 
 ---
 [[Full Paper]](http://ginabai.github.io/files/PaperPreprints/iticse21_TestingPerformance.pdf)[[Slides]](http://ginabai.github.io/files/ConferenceSlides/iticse2021.pdf)
