@@ -8,13 +8,7 @@ date: 2021-05-17
 location: "Raleigh, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Overview
+- Instructor
+- Synchronous Online Delivery
+- [Course Syllabus](https://ginabai.github.io/files/Teaching/CSC116(051)_Syllabus.pdf) 

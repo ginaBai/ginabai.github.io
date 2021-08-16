@@ -26,9 +26,5 @@ author_profile: true
 Nasif Imtiaz, Justin Middleton, Joymallya Chakraborty, Neill Robson, <strong>Gina R. Bai</strong>, Emerson Murphy-Hill. <b>ICSE 2019</b>.
 
 <br>
-<b>[How Graduate Computing Students Search When Using an Unfamiliar Programming Language](https://ginabai.github.io/publications/icpc20_VBACodeSearch)</b> <br>
-<strong>Gina R. Bai</strong>, Joshua Kayani, Kathryn T. Stolee. <b>ICPC 2020</b>.
-
-<br>
 <b>[Exploring Regular Expression Evolution](https://ginabai.github.io/publications/saner19_RegexEvolution)</b> <br>
 Peipei Wang, <strong>Gina R. Bai</strong>, Kathryn T. Stolee. <b>SANER 2019</b>.

@@ -1,5 +1,5 @@
 ---
-title: "CSC 226 - Discrete Mathematics"
+title: "CSC 226: Discrete Mathematics for Computer Scientists"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/summer2020
@@ -8,13 +8,7 @@ date: 2020-05-17
 location: "Raleigh, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Overview
+- Instructor
+- Synchronous Online Delivery
+- [Course Syllabus](https://ginabai.github.io/files/Teaching/CSC226(051)_Syllabus.pdf) 
