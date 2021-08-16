@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Effects of Gender Bias on GitHub"
 collection: publications
-permalink: /publication/icse19_GenderBias
+permalink: /publications/icse19_GenderBias
 date: 2019-5-25
 venue: 'The IEEE/ACM 41st International Conference on Software Engineering <b>ICSE 2019</b>'
 citation: 'Nasif Imtiaz, Justin Middleton, Joymallya Chakraborty, Neill Robson, <b>Gina R. Bai</b>, and Emerson Murphy-Hill.'

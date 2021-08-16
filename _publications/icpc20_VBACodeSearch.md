@@ -1,7 +1,7 @@
 ---
 title: "How Graduate Computing Students Search When Using an Unfamiliar Programming Language"
 collection: publications
-permalink: /publication/icpc20_VBACodeSearch
+permalink: /publications/icpc20_VBACodeSearch
 date: 2020-10-5
 venue: 'The 28th International Conference on Program Comprehension <b>ICPC 2020</b>'
 citation: '<b>Gina R. Bai</b>, Joshua Kayani, and Kathryn T. Stolee.'

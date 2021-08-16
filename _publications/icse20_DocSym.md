@@ -1,7 +1,7 @@
 ---
 title: "Improving Students’ Testing Practices"
 collection: publications
-permalink: /publication/icse20_DocSym
+permalink: /publications/icse20_DocSym
 date: 2020-5-23
 venue: 'The IEEE/ACM 42nd International Conference on Software Engineering: Doctoral Symposium <b>ICSE 2020</b>'
 citation: '<b>Gina R. Bai</b>.'
