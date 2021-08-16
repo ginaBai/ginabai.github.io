@@ -1,7 +1,7 @@
 ---
 title: "Exploring Tools and Strategies Used During Regular Expression Composition Tasks"
 collection: publications
-permalink: /publications/icpc19_RegexVideo
+permalink: /publication/icpc19_RegexVideo
 date: 2019-5-25
 venue: 'The 27th International Conference on Program Comprehension <b>ICPC 2019</b>'
 citation: '<b>Gina R. Bai</b>, Brian Clee, Nischal Shrestha, Carl Chapman, Cimone Wright, and Kathryn T. Stolee.'

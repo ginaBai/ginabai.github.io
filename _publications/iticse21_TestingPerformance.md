@@ -1,7 +1,7 @@
 ---
 title: "How Students Unit Test: Perceptions, Practices, and Pitfalls"
 collection: publications
-permalink: /publications/iticse21_TestingPerformance
+permalink: /publication/iticse21_TestingPerformance
 date: 2021-6-26
 venue: 'The 26th ACM Conference on Innovation and Technology in Computer Science Education <b>ITiCSE 2021</b>'
 citation: '<b>Gina R. Bai</b>, Joshua Kayani, and Kathryn T. Stolee.'

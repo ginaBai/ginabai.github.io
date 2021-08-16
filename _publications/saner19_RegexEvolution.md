@@ -1,7 +1,7 @@
 ---
 title: "Exploring Regular Expression Evolution"
 collection: publications
-permalink: /publications/icse19_GenderBias
+permalink: /publication/icse19_GenderBias
 date: 2019-2-24
 venue: 'The IEEE 26th International Conference on Software Analysis, Evolution and Reengineering <b>SANER 2019</b>'
 citation: 'Peipei Wang, <b>Gina R. Bai</b>, and Kathryn T. Stolee.'
