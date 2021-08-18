@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 [View Full CV](https://ginabai.github.io/files/CV/RuiGinaBai_CV_2021.pdf)
-======
 
 Education
 ======
@@ -18,6 +17,7 @@ Education
   * Magna Cum Laude
 * Ph.D. in Computer Science, North Carolina State University, Summer 2022 (expected)
   * Advisor: Dr.Kathryn T. Stolee
+
 
 Publications
 ======
@@ -31,6 +31,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 
 Honors & Awards
 ======
