@@ -1,5 +1,5 @@
 ---
-title: "CSC 116 - Introduction to Computing - Java"
+title: "CSC 116: Introduction to Computing - Java"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/summer2021
