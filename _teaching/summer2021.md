@@ -9,8 +9,7 @@ location: "Raleigh, USA"
 ---
 
 ### Overview
-- Summer 2021 10-week semester
-- 35 students enrolled
+- 3 credit, Summer 2021, 35 students
 - Synchronous online delivery
 - Flipped classroom
 - [[View Course Syllabus]](https://ginabai.github.io/files/Teaching/CSC116(051)_Syllabus.pdf) 

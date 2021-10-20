@@ -9,8 +9,7 @@ location: "Raleigh, USA"
 ---
 
 ### Overview
-- Summer 2020 10-week semester
-- 21 students enrolled
+- 3 credit, Summer 2020,  21 students
 - Synchronous online delivery
 - [[View Course Syllabus]](https://ginabai.github.io/files/Teaching/CSC226(051)_Syllabus.pdf) 
 
