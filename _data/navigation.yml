@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: <a href="https://ginabai.github.io/files/CV/Bai-CV.pdf" target="_blank">CV</a>
-  #  url:
+  - title: CV
+    url: https://ginabai.github.io/files/CV/Bai-CV.pdf
     
   #- title: "Guide"
    # url: /markdown/
