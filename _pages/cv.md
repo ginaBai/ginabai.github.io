@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[View Full CV](https://ginabai.github.io/files/CV/RuiGinaBai_CV_2021.pdf)
-
 Education
 ======
 * B.S. in Computer Science, Wake Forest University, May 2016
