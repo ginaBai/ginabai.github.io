@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <br>
+<b>[Check It Off: Exploring the Impact of a Checklist Intervention on the Quality of Student-authored Unit Tests](https://ginabai.github.io/publications/iticse22_TestingChecklist)</b> <br>
+<strong>Gina R. Bai</strong>, Kai Presler-Marshall, Thomas W. Price, Kathryn T. Stolee. <b>ITiCSE 2022</b>.
+
+<br>
 <b>[How Students Test: Perceptions, Practices, and Pitfalls](https://ginabai.github.io/publications/iticse21_TestingPerformance)</b> <br>
 <strong>Gina R. Bai</strong>, Justin Smith, Kathryn T. Stolee. <b>ITiCSE 2021</b>.
 
