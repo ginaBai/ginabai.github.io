@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gina R. Bai"
 title_separator          : "-"
-name                     : &name "白蕤 - Gina Bai"
+name                     : &name "白蕤 - Rui Bai"
 description              : &description "personal description"
 url                      : "https://ginabai.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "白蕤 - Gina Bai"
+  name             : "白蕤 - Rui Bai"
   avatar           : "ProfilePic.JPG"
   bio              : "PhD Candidate at NCSU"
   location         : "Engineering Building II, Room 3228"
