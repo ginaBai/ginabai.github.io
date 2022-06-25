@@ -4,7 +4,7 @@ permalink: /teaching.html
 author_profile: true
 ---
 
-**Courses at NCSU**
+**Courses at Vanderbilt Unversity**
 - Fall 2022
   - CS 1101 - Programming and Problem Solving (Java)
 
