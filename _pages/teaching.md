@@ -4,6 +4,10 @@ permalink: /teaching.html
 author_profile: true
 ---
 
+**Courses at NCSU**
+- Fall 2022
+  - CS 1101 - Programming and Problem Solving (Java)
+
 **Previous Courses at North Carolina State Unversity**
 
 - Summer 2021 

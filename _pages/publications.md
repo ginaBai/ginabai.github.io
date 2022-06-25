@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<br>
-<b>[Is Assertion Roulette still a test smell? An experiment from the perspective of testing education](https://ginabai.github.io/publications/vlhcc22_AssertionRoulette)</b> <br>
-<strong>Gina R. Bai</strong>, Kai Presler-Marshall, Susan R. Fisk, Kathryn T. Stolee. <b>VL/HCC 2022</b>.
+<div style="background-color: #87C4FD"> *** Conference (full) *** </div>
 
 <br>
 <b>[Check It Off: Exploring the Impact of a Checklist Intervention on the Quality of Student-authored Unit Tests](https://ginabai.github.io/publications/iticse22_TestingChecklist)</b> <br>
@@ -21,9 +19,7 @@ author_profile: true
 <b>[How Graduate Computing Students Search When Using an Unfamiliar Programming Language](https://ginabai.github.io/publications/icpc20_VBACodeSearch)</b> <br>
 <strong>Gina R. Bai</strong>, Joshua Kayani, Kathryn T. Stolee. <b>ICPC 2020</b>.
 
-<br>
-<b>[Improving Students' Testing Practices](https://ginabai.github.io/publications/icse20_DocSym)</b> <br>
-<strong>Gina R. Bai</strong>. <b>ICSE 2020 - Doctoral Symposium</b>.
+
 
 <br>
 <b>[Exploring Tools and Strategies Used During Regular Expression Composition Tasks](https://ginabai.github.io/publications/icpc19_RegexVideo)</b> <br>
@@ -36,3 +32,20 @@ Nasif Imtiaz, Justin Middleton, Joymallya Chakraborty, Neill Robson, <strong>Gin
 <br>
 <b>[Exploring Regular Expression Evolution](https://ginabai.github.io/publications/saner19_RegexEvolution)</b> <br>
 Peipei Wang, <strong>Gina R. Bai</strong>, Kathryn T. Stolee. <b>SANER 2019</b>.
+
+<br><br>
+<div style="background-color: #87C4FD">*** Conference (short) *** </div>
+
+<b>[Is Assertion Roulette still a test smell? An experiment from the perspective of testing education](https://ginabai.github.io/publications/vlhcc22_AssertionRoulette)</b> <br>
+<strong>Gina R. Bai</strong>, Kai Presler-Marshall, Susan R. Fisk, Kathryn T. Stolee. <b>VL/HCC 2022</b>.
+
+<br><br>
+<div style="background-color: #87C4FD">*** Thesis, Technical Reports, and Other *** </div>
+
+<br>
+<b>[Improving Student Testing Practices through a Lightweight Checklist Intervention](https://repository.lib.ncsu.edu/handle/1840.20/39743)</b> <br>
+<strong>Gina R. Bai</strong>. June 2022, Doctoral Dissertation, North Carolina State University.
+
+<br>
+<b>[Improving Students' Testing Practices](https://ginabai.github.io/publications/icse20_DocSym)</b> <br>
+<strong>Gina R. Bai</strong>. ICSE 2020 - Doctoral Symposium.
