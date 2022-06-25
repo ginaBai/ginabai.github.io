@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="background-color: #87C4FD"><b>Conference (full)</b></div>
+<div style="background-color: #87C4FD"><b>*** Conference (full) ***</b></div>
 <b>[Check It Off: Exploring the Impact of a Checklist Intervention on the Quality of Student-authored Unit Tests](https://ginabai.github.io/publications/iticse22_TestingChecklist)</b> <br>
 <strong>Gina R. Bai</strong>, Kai Presler-Marshall, Thomas W. Price, Kathryn T. Stolee. <b>ITiCSE 2022</b>.
 
@@ -25,12 +25,12 @@ Nasif Imtiaz, Justin Middleton, Joymallya Chakraborty, Neill Robson, <strong>Gin
 Peipei Wang, <strong>Gina R. Bai</strong>, Kathryn T. Stolee. <b>SANER 2019</b>.
 
 <br>
-<div style="background-color: #87C4FD"><b>Conference (short)</b></div>
-<b>[Is Assertion Roulette still a test smell? An experiment from the perspective of testing education](https://ginabai.github.io/publications/vlhcc22_AssertionRoulette)</b>
+<div style="background-color: #87C4FD"><b>*** Conference (short) ***</b></div>
+<b>[Is Assertion Roulette still a test smell? An experiment from the perspective of testing education](https://ginabai.github.io/publications/vlhcc22_AssertionRoulette)</b> <br>
 <strong>Gina R. Bai</strong>, Kai Presler-Marshall, Susan R. Fisk, Kathryn T. Stolee. <b>VL/HCC 2022</b>.
 
 <br>
-<div style="background-color: #87C4FD"><b>Thesis, Technical Reports, and Other</b></div>
+<div style="background-color: #87C4FD"><b>*** Thesis, Technical Reports, and Other ***</b></div>
 <b>[Improving Student Testing Practices through a Lightweight Checklist Intervention](https://repository.lib.ncsu.edu/handle/1840.20/39743)</b> <br>
 <strong>Gina R. Bai</strong>. Doctoral Dissertation, North Carolina State University. June 2022.
 
