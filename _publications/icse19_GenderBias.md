@@ -6,7 +6,7 @@ date: 2019-5-25
 ---
 Recommended citation: 
 
-Nasif Imtiaz, Justin Middleton, Joymallya Chakraborty, Neill Robson, **Gina R. Bai**, and Emerson Murphy-Hill. ''Investigating the Effects of Gender Bias on GitHub,'' <i>2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE) </i>, 2019, pp. 700-711, doi: 10.1109/ICSE.2019.00079.
+Nasif Imtiaz, Justin Middleton, Joymallya Chakraborty, Neill Robson, **Gina R. Bai**, and Emerson Murphy-Hill, ''Investigating the Effects of Gender Bias on GitHub,'' <i>2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)</i>, 2019, pp. 700-711, doi: 10.1109/ICSE.2019.00079.
 
 ---
 [[Full Paper]](http://ginabai.github.io/files/PaperPreprints/icse19_GenderBias.pdf)

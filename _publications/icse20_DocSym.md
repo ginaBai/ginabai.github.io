@@ -6,7 +6,7 @@ date: 2020-5-23
 ---
 Recommended citation: 
 
-**Gina R. Bai**. 2020. Improving Students’ Testing Practices. In <i>42nd International Conference on Software Engineering Companion (ICSE ’20 Companion), May 23–29, 2020, Seoul, Republic of Korea</i>. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3377812.3381401
+**Gina R. Bai**. 2020. Improving Students’ Testing Practices. In <i>Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Companion Proceedings</i>. ACM, New York, NY, USA, 218–221. https://doi.org/10.1145/3377812.3381401
 
 ---
 [[Full Paper]](http://ginabai.github.io/files/PaperPreprints/icse20_DocSym.pdf)

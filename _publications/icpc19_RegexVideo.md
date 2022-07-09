@@ -6,7 +6,7 @@ date: 2019-5-25
 ---
 Recommended citation: 
 
-**Gina R. Bai**, Brian Clee, Nischal Shrestha, Carl Chapman, Cimone Wright, and Kathryn T. Stolee. ''Exploring Tools and Strategies Used During Regular Expression Composition Tasks,'' <i>2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC)</i>, 2019, pp. 197-208, doi: 10.1109/ICPC.2019.00039.
+**Gina R. Bai**, Brian Clee, Nischal Shrestha, Carl Chapman, Cimone Wright, and Kathryn T. Stolee. 2019. Exploring Tools and Strategies Used During Regular Expression Composition Tasks. In <i>Proceedings of the 27th International Conference on Program Comprehension (ICPC '19)</i>. IEEE Press, 197–208. https://doi.org/10.1109/ICPC.2019.00039.
 
 ---
 [[Full Paper]](http://ginabai.github.io/files/PaperPreprints/icpc19_RegexVideo.pdf)[[Slides]](http://ginabai.github.io/files/ConferenceSlides/icpc2019.pdf)

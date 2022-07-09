@@ -9,7 +9,7 @@ Recommended citation:
 **Gina R. Bai**, Kai Presler-Marshall, Susan R. Fisk, and Kathryn T. Stolee. 2022. Is Assertion Roulette still a test smell? An experiment from the perspective of testing education. In <i>2022 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2022), September 12 - September 16, 2022, Rome, Italy</i>.
 
 ---
-[[Full Paper]](http://ginabai.github.io/files/PaperPreprints/vlhcc22_AssertionRoulette.pdf)[[Slides - To Appear]](http://ginabai.github.io/files/ConferenceSlides/vlhcc2022.pdf)
+[[Full Paper]](http://ginabai.github.io/files/PaperPreprints/vlhcc22_AssertionRoulette.pdf)
 
 ## Abstract
 Test smells are commonly perceived as having a negative impact on software maintainability and correctness. Research has shown that <i>Assertion Roulette</i> is the most pervasive smell in industrial and open-source systems. However, some recent studies argue that the impact of <i>Assertion Roulette</i> is not as severe as previously believed, and developers usually consider it acceptable.
