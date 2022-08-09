@@ -83,11 +83,11 @@ author:
   name             : "白蕤 - Rui Bai"
   avatar           : "ProfilePic.JPG"
   bio              : "Assistant Professor of the Practice of Computer Science"
-  location         : "Vanderbilt University"
-  employer         : "Nashville, TN"
+  location         : #"Office - TBA"
+  employer         : "Vanderbilt University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wJcOjOUAAAAJ&hl=en"
-  email            : "rbai2@ncsu.edu"
+  email            : "rui.bai@vanderbilt.edu"
   researchgate     :  #"https://www.researchgate.net/scientific-contributions/Gina-R-Bai-2154954822"
   uri              :
   bitbucket        :
