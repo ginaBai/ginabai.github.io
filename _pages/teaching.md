@@ -7,7 +7,7 @@ author_profile: true
 <div style="background-color: #87C4FD"><b>*** Courses at Vanderbilt University ***</b></div>
 
 - Fall 2022 
-  - CS 1101: Programming and Problem Solving - Java [[Course Repo]](https://github.com/ginaBai/Fall22-CS1101-ProgrammingAndProblemSolving-Java)
+  - CS 1101: Programming and Problem Solving - Java [[Course Repo]](https://github.com/ginaBai/CS1101-Fall22/blob/main/README.md)
 
 <br>
 <div style="background-color: #87C4FD"><b>*** Previous Courses at North Carolina State University ***</b></div>

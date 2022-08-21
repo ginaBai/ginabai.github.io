@@ -14,7 +14,7 @@ I'm <b>Rui Bai</b> (sounds like "ray bye"), and you may also know me as "Gina". 
 
 I am an Assistant Professor of the Practice in the Department of Computer Science at Vanderbilt University. In Fall 2022, I teach:
 - CS 1101: Programming and Problem Solving - Java
-  - Sections 02 & 03 [[Course Repo]](https://github.com/ginaBai/Fall22-CS1101-ProgrammingAndProblemSolving-Java) 
+  - Sections 02 & 03 [[Course Repo]](https://github.com/ginaBai/CS1101-Fall22/blob/main/README.md) 
 
 
 My research interests fall into the intersection of software engineering and computer science education. In particular, I am intersted in understanding and addressing the barriers and misconceptions that students have during software development, with a specific focus on software testing. 
