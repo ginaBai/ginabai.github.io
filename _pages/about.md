@@ -18,6 +18,6 @@ I am an Assistant Professor of the Practice in the Department of Computer Scienc
 
 My research interests fall into the intersection of software engineering and computer science education. In particular, I am intersted in understanding and addressing the barriers and misconceptions that students have during software development, with a specific focus on software testing. I am also interested in research areas such as code search and DEI in computing communities.
 
-I received my Ph.D. in Computer Science in June 2022 from North Carolina State University, where I was advised by <a href="https://kstolee.github.io" target="_blank">Dr. Kathryn T. Stolee</a> in the <a href="https://csrankings.org/#/fromyear/2017/toyear/2022/index?soft&us" target="_blank">Collaborative Software Engineering Lab</a>. In 2016, I received my B.S. in Computer Science from Wake Forest University where I also minored in Mathematics.
+I received my Ph.D. in Computer Science in June 2022 from North Carolina State University, where I was advised by <a href="https://kstolee.github.io" target="_blank">Dr. Kathryn T. Stolee</a> in the Collaborative Software Engineering Lab. In 2016, I received my B.S. in Computer Science from Wake Forest University where I also minored in Mathematics.
 
 Outside of work, I enjoy cooking, reading, photography, and doing jigsaw puzzles.
