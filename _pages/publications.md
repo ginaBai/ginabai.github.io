@@ -7,12 +7,12 @@ author_profile: true
 
 <div style="background-color: #87C4FD"><b>*** Journal ***</b></div>
 <b>[Fair Enough: Searching for Sufficient Measures of Fairness]()</b> <br>
-Suvodeep Majumder, Joymallya Chakraborty, <strong>Gina R. Bai</strong>, Kathryn T. Stolee. <b>ACM Transactions on Software Engineering and Methodology (TOSEM 2022)</b>.
+Suvodeep Majumder, Joymallya Chakraborty, <strong>Gina R. Bai</strong>, Kathryn T. Stolee, Tim Menzies. <b>TOSEM 2022</b>.
 
 <br>
 <div style="background-color: #87C4FD"><b>*** Conference (full) ***</b></div>
 <b>[Check It Off: Exploring the Impact of a Checklist Intervention on the Quality of Student-authored Unit Tests](https://ginabai.github.io/publications/iticse22_TestingChecklist)</b> <br>
-<strong>Gina R. Bai</strong>, Kai Presler-Marshall, Thomas W. Price, Kathryn T. Stolee, Tim Menzies. <b>ITiCSE 2022</b>.
+<strong>Gina R. Bai</strong>, Kai Presler-Marshall, Thomas W. Price, Kathryn T. Stolee. <b>ITiCSE 2022</b>.
 
 <b>[How Students Test: Perceptions, Practices, and Pitfalls](https://ginabai.github.io/publications/iticse21_TestingPerformance)</b> <br>
 <strong>Gina R. Bai</strong>, Justin Smith, Kathryn T. Stolee. <b>ITiCSE 2021</b>.
