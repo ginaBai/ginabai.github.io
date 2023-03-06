@@ -1,8 +1,8 @@
 ---
 title: "An Experience Report on Introducing Explicit Strategies into Testing Checklists for Advanced Beginners"
 collection: publications
-permalink: /publications/iticse22_TestingChecklist
-date: 2022-3-7
+permalink: /publications/iticse23_ETSChecklist
+date: 2023-3-6
 ---
 Recommended citation: 
 
