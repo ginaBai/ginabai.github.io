@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <div style="background-color: #87C4FD"><b>*** Journal ***</b></div>
-<b>[Fair Enough: Searching for Sufficient Measures of Fairness](https://ginabai.github.io/publications/tosem22_FairnessMetrics)</b> <br>
-Suvodeep Majumder, Joymallya Chakraborty, <strong>Gina R. Bai</strong>, Kathryn T. Stolee, Tim Menzies. <b>TOSEM 2022</b>.
+<b>[Fair Enough: Searching for Sufficient Measures of Fairness](https://ginabai.github.io/publications/tosem23_FairnessMetrics)</b> <br>
+Suvodeep Majumder, Joymallya Chakraborty, <strong>Gina R. Bai</strong>, Kathryn T. Stolee, Tim Menzies. <b>TOSEM 2023</b>.
 
 <br>
 <div style="background-color: #87C4FD"><b>*** Conference (full) ***</b></div>
