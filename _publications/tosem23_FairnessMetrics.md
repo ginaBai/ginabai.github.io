@@ -6,7 +6,7 @@ date: 2023-1-23
 ---
 Recommended citation: 
 
-Suvodeep Majumder, Joymallya Chakraborty, **Gina R. Bai**, Kathryn T. Stolee, and Tim Menzies. 2023. Fair Enough: Searching for Sufficient Measures of Fairness. <i>ACM Transactions on Software Engineering and Methodology (TOSEM)</i>. https://doi.org/10.1145/3585006.
+Suvodeep Majumder, Joymallya Chakraborty, **Gina R. Bai**, Kathryn T. Stolee, and Tim Menzies. 2023. Fair Enough: Searching for Sufficient Measures of Fairness. <i>ACM Transactions on Software Engineering and Methodology (TOSEM)</i>. 32, 6, Article 134 (November 2023), 22 pages.  https://doi.org/10.1145/3585006.
 
 ---
 [[Full Paper]](https://dl.acm.org/doi/10.1145/3585006)

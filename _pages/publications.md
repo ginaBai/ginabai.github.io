@@ -11,8 +11,8 @@ Suvodeep Majumder, Joymallya Chakraborty, <strong>Gina R. Bai</strong>, Kathryn 
 
 <br>
 <div style="background-color: #87C4FD"><b>*** Conference (full) ***</b></div>
-<b>[Does ChatGPT Help With Introductory Programming? An Experiment of Students Using ChatGPT in CS1](https://ginabai.github.io/publications/icseseet24_ChatGPTinIntro)</b> <br>
-Yuankai Xue, Hanlin Chen, Robert Tairas, <strong>Gina R. Bai</strong>, Yu Huang. <b>ICSE-SEET 2024</b>.
+<b>[Does ChatGPT Help with Introductory Programming? An Experiment of Students Using ChatGPT in CS1](https://ginabai.github.io/publications/icseseet24_ChatGPTinIntro)</b> <br>
+Yuankai Xue, Hanlin Chen, <strong>Gina R. Bai</strong>, Robert Tairas, Yu Huang. <b>ICSE-SEET 2024</b>.
 
 <b>[An Experience Report on Introducing Explicit Strategies into Testing Checklists for Advanced Beginners](https://ginabai.github.io/publications/iticse23_ETSChecklist)</b> <br>
 <strong>Gina R. Bai</strong>, Sandeep Sthapit, Sarah Heckman, Thomas W. Price, Kathryn T. Stolee. <b>ITiCSE 2023</b>.
