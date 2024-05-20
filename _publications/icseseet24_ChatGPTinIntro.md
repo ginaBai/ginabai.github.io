@@ -1,5 +1,5 @@
 ---
-title: "Does ChatGPT Help with Introductory Programming?An Experiment of Students Using ChatGPT in CS1"
+title: "Does ChatGPT Help with Introductory Programming? An Experiment of Students Using ChatGPT in CS1"
 collection: publications
 permalink: /publications/icseseet24_ChatGPTinIntro
 date: 2023-12-15
