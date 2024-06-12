@@ -6,7 +6,7 @@ date: 2023-12-15
 ---
 Recommended citation: 
 
-[To appear]
+Yuankai Xue, Hanlin Chen, **Gina R. Bai**, Robert Tairas, and Yu Huang. 2024. Does ChatGPT Help With Introductory Programming?An Experiment of Students Using ChatGPT in CS1. In <i>Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '24)</i>. ACM, New York, NY, USA, 331–341. https://doi.org/10.1145/3639474.3640076
 
 ---
 [[Full Paper]](http://ginabai.github.io/files/PaperPreprints/icseseet24_ChatGPTinIntro.pdf)
