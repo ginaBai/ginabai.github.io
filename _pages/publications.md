@@ -11,6 +11,9 @@ Suvodeep Majumder, Joymallya Chakraborty, <strong>Gina R. Bai</strong>, Kathryn 
 
 <br>
 <div style="background-color: #87C4FD"><b>*** Conference (full) ***</b></div>
+<b>[A Comparative Study on ChatGPT and Checklist as Support Tools for Unit Testing Education](https://ginabai.github.io/publications/fseseet25_ChatGPTvsChecklist)</b> <br>
+Zihan Fang, Jiliang Li, Anda Liang, <strong>Gina R. Bai</strong>, Yu Huang. <b>FSE-SEET 2025</b>.
+
 <b>[Evaluating the Effectiveness of a Testing Checklist Intervention in CS2: An Quasi-experimental Replication Study](https://ginabai.github.io/publications/icer24_ChecklistInCS2)</b> <br>
 <strong>Gina R. Bai</strong>, Zuoxuan Jiang, Thomas W. Price, Kathryn T. Stolee <b>ICER 2024</b>.
 
