@@ -12,7 +12,7 @@ redirect_from:
 
 I'm <b>Rui Bai</b> (sounds like "ray bye"), and you may also know me as "Gina". I publish research under <b>Gina R. Bai</b>. 
 
-I am an Assistant Professor of the Practice in the Department of Computer Science at Vanderbilt University. In Spring 2025, I teach: 
+I am an Assistant Professor of the Practice in the Department of Computer Science at Vanderbilt University. In Fall 2025, I teach: 
 
 - CS 1101: Programming and Problem Solving - Java
 - CS 2201: Program Design and Data Structures - Java
