@@ -7,16 +7,16 @@ author_profile: true
 <div style="background-color: #87C4FD"><b>*** Courses at Vanderbilt University ***</b></div>
 
 - CS 1101: Programming and Problem Solving - Java
-  - Spring 2026, Fall 2025, Spring 2025, Fall 2024, Spring 2024, Fall 2023, Spring 2023, Fall 2022
-  - Course Coordinator: Spring 2026, Fall 2025, Spring 2025, Fall 2024, Spring 2024, Fall 2023
+  - Fall '26, Spring '26, Fall '25, Spring '25, Fall '24, Spring '24, Fall '23, Spring '23, Fall '22
+  - Course Coordinator: Fall '26, Spring '26, Fall '25, Spring '25, Fall '24, Spring '24, Fall '23
 - CS 2201: Program Design and Data Structures - Java
-  - Spring 2026, Fall 2025, Spring 2025, Fall 2024, Spring 2024, Fall 2023
+  - Spring '26, Fall '25, Spring '25, Fall '24, Spring '24, Fall '23
 
 
 <br>
 <div style="background-color: #87C4FD"><b>*** Previous Courses at North Carolina State University ***</b></div>
 
 - CSC 116: Introduction to Computing - Java
-  - Summer 2021
+  - Summer '21
 - CSC 226: Discrete Mathematics for Computer Scientists
-  - Summer 2020
+  - Summer '20
